@@ -1,0 +1,16 @@
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\WEEK-4-EXO.exe
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\WEEK-4-EXO.deps.json
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\WEEK-4-EXO.runtimeconfig.json
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\WEEK-4-EXO.runtimeconfig.dev.json
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\WEEK-4-EXO.dll
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\ref\WEEK-4-EXO.dll
+C:\Users\julie\source\repos\WEEK-4-EXO\bin\Debug\net5.0\WEEK-4-EXO.pdb
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.csproj.AssemblyReference.cache
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.AssemblyInfo.cs
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.dll
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\ref\WEEK-4-EXO.dll
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.pdb
+C:\Users\julie\source\repos\WEEK-4-EXO\obj\Debug\net5.0\WEEK-4-EXO.genruntimeconfig.cache
